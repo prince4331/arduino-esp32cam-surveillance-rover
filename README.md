@@ -1,5 +1,7 @@
 ﻿# ESP32-CAM Surveillance Rover
 
+![Platform](https://img.shields.io/badge/platform-ESP32-CAM-00599C) ![Focus](https://img.shields.io/badge/focus-Robotics-brightgreen) ![Status](https://img.shields.io/badge/status-Active-success)
+
 Wi-Fi streaming rover exposing camera feed and motor controls through the ESP32-CAM web server.
 
 ## Original Folder
